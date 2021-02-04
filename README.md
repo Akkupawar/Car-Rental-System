@@ -64,6 +64,7 @@ Open Your browser put inside browser “http://localhost/carrental”
 Login Details for user: test@gmail.com/Test@12345
 For Admin Panel
 Open Your browser put inside browser “http://localhost/Online_Car_Rental/admin”
+
 Login Details for admin :
 User Name: admin
 Password : admin
