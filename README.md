@@ -56,16 +56,26 @@ How to run Project
 2. Put carrental folder inside root directory
 
 Database Configuration
+
 Open phpmyadmin
+
 Create Database Online_Car_Rental
+
 Import database carrental.sql (available inside zip package)
+
 Registered User
+
 Open Your browser put inside browser “http://localhost/carrental”
+
 Login Details for user: test@gmail.com/Test@12345
+
 For Admin Panel
+
 Open Your browser put inside browser “http://localhost/Online_Car_Rental/admin”
 
 Login Details for admin :
+
 User Name: admin
+
 Password : admin
 
